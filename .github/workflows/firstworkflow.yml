@@ -7,7 +7,10 @@ jobs:
       - name: Printing TvK
         run: echo "Tvk Vazhga!!!"
       - name: Printing DMK
-        run: echo "DMK oru theeya shakthi!!!"
+        run: | 
+          echo "DMK oru theeya shakthi!!!"
+          echo "DMK uncle"
+
   surya:
       runs-on: ubuntu-latest
       steps:

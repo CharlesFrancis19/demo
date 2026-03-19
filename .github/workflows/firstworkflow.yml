@@ -1,4 +1,4 @@
-name:Samantha
+name: Samantha
 on: push
 jobs: 
   vijay: 
@@ -6,3 +6,5 @@ jobs:
     steps: 
       - name: Printing TvK
         run: echo "Tvk Vazhga!!!"
+      - name: Printing DMK
+        run: echo "DMK oru theeya shakthi!!!"

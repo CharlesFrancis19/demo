@@ -1,4 +1,4 @@
-name: Samantha
+name:Samantha
 on: push
 jobs: 
   vijay: 

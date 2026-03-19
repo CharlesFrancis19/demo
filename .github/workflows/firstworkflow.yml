@@ -1,0 +1,8 @@
+name: Samantha
+on: push
+jobs: 
+  vijay: 
+    runs-on: ubuntu-latest
+    steps: 
+      - name: Printing TvK
+        run: echo "Tvk Vazhga!!!"
